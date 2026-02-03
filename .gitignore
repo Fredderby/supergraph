@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Superset local files
+superset.db
+superset/*.db
+
+# OS files
+.DS_Store
